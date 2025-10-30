@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23224996/README.md)
 # NICE DAY TODAY — Starter
 Full-stack minimal to deploy fast on free tiers.
 
